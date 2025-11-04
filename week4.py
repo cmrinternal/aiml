@@ -11,5 +11,4 @@ for model in solution:
   if model[Rain]:
     print("It rained today.")
   else:
-  
     print("There is no rain today.")
